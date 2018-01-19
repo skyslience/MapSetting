@@ -1,0 +1,4 @@
+name: ServerSetting
+main: cn.plugin.mapsetting.MapSetting
+version: 1.0.1
+depend: [SimpleORM]
